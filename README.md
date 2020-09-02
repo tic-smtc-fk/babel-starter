@@ -586,3 +586,14 @@ var A = function A() {
   _classCallCheck(this, A);
 };
 ```
+
+# 小结
+
+以上就是 Babel 项目实践，可以查看 demo
+
+```bash
+git clone git@github.com:tic-smtc-fk/babel-starter.git
+cd babel-starter
+npm i
+npm run build
+```
